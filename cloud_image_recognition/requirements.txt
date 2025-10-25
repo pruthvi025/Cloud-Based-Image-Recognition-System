@@ -1,0 +1,20 @@
+# Cloud Image Recognition System - Python Dependencies
+
+# GUI Framework (comes with Python, but listed for completeness)
+# tkinter is included with standard Python installation
+
+# Image processing library
+Pillow>=10.0.0
+
+# Google Cloud Vision API
+google-cloud-vision>=3.4.0
+
+# Google Cloud Storage
+google-cloud-storage>=2.10.0
+
+# Firebase Authentication
+firebase-admin>=6.2.0
+pyrebase4>=4.7.1
+
+# Additional utilities
+requests>=2.31.0
